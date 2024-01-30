@@ -1,7 +1,8 @@
 package com.nobroker.entity;
 
-import jakarta.persistence.*;
 import lombok.*;
+import javax.persistence.*;
+
 @Entity
 @Data
 @AllArgsConstructor
